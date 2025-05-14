@@ -25,6 +25,7 @@ Compile the source using g++ or any C++ compiler:
 ```bash
 g++ LMS_Project.cpp -o LMS
 ./LMS
+```
 
 ## 👨‍💻 Author
 
